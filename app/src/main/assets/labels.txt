@@ -1,0 +1,7 @@
+0 Rice rusted bacterial smut
+1 Potato Late/Early Blight
+2 Tomato Powdery Mildew
+3 Tomato Gray/Bacterial spot
+4 Pumpkin Mosaic Disease
+5 Pumpkin Powdery Mildew
+6 Eggplant (Brinjal) Mosaic Virus
